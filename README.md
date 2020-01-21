@@ -1,2 +1,2 @@
 # opencv-config-with-vscode
-OpenCV example configuration with VS Code.
+OpenCV C++ example configuration with VS Code.
